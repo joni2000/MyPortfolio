@@ -41,7 +41,7 @@ li {
 /* Header */
 header {
     height: 5rem;
-    background-color: var(--fucsia);
+    background-color: rgba(83, 0, 113, 0.7);
 }
 
 .logo {
