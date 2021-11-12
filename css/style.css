@@ -23,7 +23,7 @@ html {
 }
 
 body {
-    background: linear-gradient(#D776FA,#4f006b);
+    background: linear-gradient(#b9b9b9,#FFFFFF);
 }
 
 a {
@@ -41,7 +41,7 @@ li {
 /* Header */
 header {
     height: 5rem;
-    background-color: rgba(83, 0, 113, 0.7);
+    background-color: rgba(83, 0, 113);
 }
 
 .logo {
@@ -79,11 +79,12 @@ header {
     width: 15rem;
     border-radius: 50%;
     border: solid 2px #4f006b;
-    box-shadow: 0 0 5rem rgba(184, 7, 248, 0.5);
+    box-shadow: 0 0 1rem rgba(184, 7, 248, 0.5);
 }
 
 .info .title {
     font-weight: bold;
+    color: rgb(105, 105, 105);
 }
 
 .info p{
@@ -107,7 +108,7 @@ header {
     justify-content: center;
     padding: 1rem;
     text-align: center;
-    box-shadow: 0 0 5rem rgba(184, 7, 248, 0.5);
+    box-shadow: 0 0 2rem rgba(184, 7, 248, 0.5);
 }
 
 .home .present p {
