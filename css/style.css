@@ -23,7 +23,7 @@ html {
 }
 
 body {
-    background: linear-gradient(#b9b9b9,#FFFFFF);
+    background: white;
 }
 
 a {
@@ -146,7 +146,6 @@ header {
 }
 
 .skills i:hover {
-    transform: scale(1.4);
     color: #7600a1;
 }
 
